@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="multiprocessing_tools", # Replace with your own username
-    version="1.0.0",
+    name="multiprocessing_tools",
+    version="1.0.3",
     author="Michael Smith",
     author_email="michael.smith.ok@gmail.com",
     description="Simplified Python functions for multithreaded mapping and filtering",

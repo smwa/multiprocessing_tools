@@ -1,4 +1,4 @@
-from src import map, filter
+from multiprocessing_tools import map, filter
 
 def mapper(item):
     return item**2
