@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="multiprocessing_tools",
-    version="1.0.3",
+    version="1.0.4",
     author="Michael Smith",
     author_email="michael.smith.ok@gmail.com",
     description="Simplified Python functions for multithreaded mapping and filtering",
